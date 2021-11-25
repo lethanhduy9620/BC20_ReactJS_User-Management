@@ -1,0 +1,11 @@
+html
+js
+
+=> jsx
+
+
+====== Buổi 1 =======
+* Component:
+    - Stateful Component: class
+    - Stateless Component: function
+* SPAs
