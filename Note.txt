@@ -1,11 +1,12 @@
-html
-js
-
-=> jsx
-
-
-====== Buổi 1 =======
+====== Buổi 1 ======
 * Component:
     - Stateful Component: class
     - Stateless Component: function
 * SPAs
+
+===== Buổi 2 ======
+* Install BS4
+* Rendering Elements
+* Handling Events
+* State: Nếu như state thay đổi => component render lại 
+* List keys

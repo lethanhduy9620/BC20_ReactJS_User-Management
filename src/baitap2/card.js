@@ -8,7 +8,7 @@ export default function Card() {
         <img
           className="card-img-top"
           src="./img/sp_iphoneX.png"
-          alt="Card image cap"
+          alt="CardImageCap"
         />
         <div className="card-body">
           <h5 className="card-title">Card title</h5>
