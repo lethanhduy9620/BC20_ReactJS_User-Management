@@ -18,6 +18,8 @@ export default class State extends Component {
         console.log(this.state.isLogin);
       }
     );
+
+    //this.setState({object}, callbackFunction());
   };
 
   handleLogout = () => {
